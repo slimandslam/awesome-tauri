@@ -119,6 +119,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [axios-tauri-adapter](https://git.kaki87.net/KaKi87/axios-tauri-adapter) - `axios` adapter for the `@tauri-apps/api/http` module.
 - [axios-tauri-api-adapter](https://github.com/persiliao/axios-tauri-api-adapter) - Makes it easy to use Axios in Tauri, `axios` adapter for the `@tauri-apps/api/http` module.
 - [ngx-tauri](https://codeberg.org/crapsilon/ngx-tauri) - Small lib to wrap around functions from tauri modules, to integrate easier with Angular.
+- [openaiimages](https://github.com/slimandslam/openaiimages) - A working React example that can be used as a starting point for React developers using Tauri v2.
 - [svelte-tauri-filedrop](https://github.com/probablykasper/svelte-tauri-filedrop) - File drop handling component for Svelte.
 - [tauri-macos-menubar-app-example](https://github.com/ahkohd/tauri-macos-menubar-app-example) - Example macOS Menubar app project.
 - [tauri-macos-spotlight-example](https://github.com/ahkohd/tauri-macos-spotlight-example) - Example macOS Spotlight app project.
